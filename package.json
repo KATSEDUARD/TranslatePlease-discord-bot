@@ -1,0 +1,19 @@
+{
+  "name": "translate-please-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for language translation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "fast-csv": "^4.3.6",
+    "translate-google": "^1.5.0"
+  }
+}

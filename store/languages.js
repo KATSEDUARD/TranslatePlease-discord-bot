@@ -1,0 +1,1 @@
+export const langsObject = { from: 'en', to: 'ru' };
